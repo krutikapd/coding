@@ -1,2 +1,2 @@
-# coding
+# codechef
 Competitve coding questions
